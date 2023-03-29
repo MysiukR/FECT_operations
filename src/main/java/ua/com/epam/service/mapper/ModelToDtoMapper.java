@@ -55,7 +55,7 @@ public class ModelToDtoMapper {
         detailedLessonDto.setLessonNumber(item.getLessonNumber());
         detailedLessonDto.setDayOfWeek(DAY_OF_WEEK.getWeekdayByNumber(item.getDayOfWeek()).get().getWeekday());
         detailedLessonDto.setRoomName(item.getRoomName());
-        detailedLessonDto.setTeacher(item.getSubjectName());
+        detailedLessonDto.setTeacher(item.getTeacherName());
         detailedLessonDto.setSubjectName(item.getSubjectName());
         return detailedLessonDto;
     }

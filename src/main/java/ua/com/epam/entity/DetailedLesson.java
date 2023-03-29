@@ -43,5 +43,8 @@ public class DetailedLesson implements Serializable {
     @Column(name = "subject_name")
     private String subjectName;
 
+    @Column(name = "teacher_name")
+    private String teacherName;
+
 
 }

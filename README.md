@@ -47,7 +47,7 @@ Rebuild project. H2 console will be available on:
 http://localhost:8080/h2-workbench
 ```
 In opened window leave all inputs as default expect `JDBC URL`. Here you must paste `jdbc:h2:file:<absolute_path_to_db_file>`. Look step `2.1.`
-e.g. `jdbc:h2:D:/PhD/SWE/Бази даних/REST-library-API-master/REST-library-API-master/src/main/resources/db/library`
+e.g. `jdbc:h2:/Users/Roman_Mysiuk/Documents/FECT_PROJECT/GloryToUkraine-skills/src/main/resources/db/library`
 
 ## Data ingestion (not implemented)
 It is realized random data ingestion in `DataIngestion` class by `src/main/java/ua/com/epam` path. To generate some random data run main method from this class;
