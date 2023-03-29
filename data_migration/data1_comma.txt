@@ -1,0 +1,1350 @@
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-11
+2, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Понедiлок, ФеС-11
+3, Алг.та структ.даних (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Понедiлок, ФеС-11
+4, Об.-орiєнт.прогр. (лекц),доц. Злобiн Г.Г.,128, NULL, NULL, NULL, Понедiлок, ФеС-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-11
+3, Вища математика (пр),доц. Зелiско Г.В.,3, NULL, NULL, NULL, Вiвторок, ФеС-11
+4, Iноземна мова (пр),доц. Саламаха М.Я.,70, NULL, NULL, NULL, Вiвторок, ФеС-11
+5, Фiзвиховання (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-11
+2, Управл. IТ проектами (лаб),доц. Ненчук Т.М.,11,Об.-орiєнт.прогр. (лаб),доц. Злобiн Г.Г.,313,Середа, ФеС-11
+3, Об.-орiєнт.прогр. (лаб),доц. Злобiн Г.Г.,313,Управл. IТ проектами (лаб),ас. Рибак А.В.,11,Середа, ФеС-11
+4, Iноземна мова (пр),доц. Саламаха М.Я.,72, NULL, NULL, NULL, Середа, ФеС-11
+5, Алг.та структ.даних (лаб),доц. Вельгош С.Р.,12, NULL, NULL, NULL, Середа, ФеС-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-11
+2, Вища математика (пр),доц. Зелiско Г.В.,406, NULL, NULL, NULL, Четвер, ФеС-11
+3, Алг.та структ.даних (лаб),доц. Вельгош С.Р.,12, NULL, NULL, NULL, Четвер, ФеС-11
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеС-11
+2, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Пятниця, ФеС-11
+3, Управл. IТ проектами (лекц),доц. Ненчук Т.М.,2, NULL, NULL, NULL, Пятниця, ФеС-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-12
+2, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Понедiлок, ФеС-12
+3, Алг.та структ.даних (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Понедiлок, ФеС-12
+4, Об.-орiєнт.прогр. (лекц),доц. Злобiн Г.Г.,128, NULL, NULL, NULL, Понедiлок, ФеС-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-12
+3, Вища математика (пр),ст. вик. Саницька А.О.,405, NULL, NULL, NULL, Вiвторок, ФеС-12
+4, Iноземна мова (пр),ас. Буловчак А.О.,76, NULL, NULL, NULL, Вiвторок, ФеС-12
+5, Фiзвиховання (лекц), NULL, Сп-кс, NULL, NULL, NULL, Вiвторок, ФеС-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-12
+2, Алг.та структ.даних (лаб),доц. Вельгош С.Р.,12, NULL, NULL, NULL, Середа, ФеС-12
+3, Управл. IТ проектами (лаб),ас. Каськун О.Д.,5, NULL, NULL, NULL, Середа, ФеС-12
+4, Iноземна мова (пр),ас. Буловчак А.О.,5, NULL, NULL, NULL, Середа, ФеС-12
+5, Об.-орiєнт.прогр. (лаб),доц. Злобiн Г.Г.,313, NULL, NULL, NULL, Середа, ФеС-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-12
+2, Вища математика (пр),ст. вик. Саницька А.О.,407, NULL, NULL, NULL, Четвер, ФеС-12
+3, Управл. IТ проектами (лаб),доц. Демкiв Л.С.,11,Об.-орiєнт.прогр. (лаб),доц. Злобiн Г.Г.,313, Четвер, ФеС-12
+4, Алг.та структ.даних (лаб),доц. Вельгош С.Р.,6, NULL, NULL, NULL, Четвер, ФеС-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеС-12
+2, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Пятниця, ФеС-12
+3, Управл. IТ проектами (лекц),доц. Ненчук Т.М.,2, NULL, NULL, NULL, Пятниця, ФеС-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-13
+2, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Понедiлок, ФеС-13
+3, Алг.та структ.даних (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Понедiлок, ФеС-13
+4, Об.-орiєнт.прогр. (лекц),доц. Злобiн Г.Г.,128, NULL, NULL, NULL, Понедiлок, ФеС-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеС-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-13
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-13
+3, Об.-орiєнт.прогр. (лаб),доц. Злобiн Г.Г.,313,Управл. IТ проектами (лаб),ас. Каськун О.Д.,11,Вiвторок, ФеС-13
+4, Iноземна мова (пр),ас. Потичко С.I.,122,Iноземна мова (пр),Плахотник Н.В.,213,Вiвторок, ФеС-13
+5, Фiзвиховання (лекц), NULL, Сп-кс, NULL, NULL, NULL, Вiвторок, ФеС-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеС-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-13
+2, Алг.та структ.даних (лаб),ас. Кучеренко О.I.,7, NULL, NULL, NULL, Середа, ФеС-13
+3, Вища математика (пр),доц. Петрук Т.М.,406, NULL, NULL, NULL, Середа, ФеС-13
+4, Iноземна мова (пр),ас. Потичко С.I.,128,Iноземна мова (пр),Плахотник Н.В.,213,Середа, ФеС-13
+5, Алг.та структ.даних (лаб),ас. Кучеренко О.I.,6, NULL, NULL, NULL, Середа, ФеС-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеС-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-13
+2, Управл. IТ проектами (лаб),ас. Каськун О.Д.,11,Об.-орiєнт.прогр. (лаб),доц. Злобiн Г.Г.,313,Четвер, ФеС-13
+3, Вища математика (пр),доц. Петрук Т.М.,407, NULL, NULL, NULL, Четвер, ФеС-13
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеС-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеС-13
+2, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Пятниця, ФеС-13
+3, Управл. IТ проектами (лекц),доц. Ненчук Т.М.,2, NULL, NULL, NULL, Пятниця, ФеС-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеЛ-11
+2, Вища математика (лекц),доц. Мильо О.Я.,7, NULL, NULL, NULL, Понедiлок, ФеЛ-11
+3, Фiз.осн.електрон. (лекц),проф. Демкiв. Т.М.,4, NULL, NULL, NULL, Понедiлок, ФеЛ-11
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеЛ-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеЛ-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеЛ-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+3, Арх.комп. i прогр. (лаб),доц. Слободзян Д.П.,4, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+4, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+5, Фiзвиховання (лекц), NULL, Сп-кс, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеЛ-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеЛ-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеЛ-11
+3, Вища математика (пр),доц. Мильо О.Я.,9, NULL, NULL, NULL, Середа, ФеЛ-11
+4, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Середа, ФеЛ-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеЛ-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеЛ-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеЛ-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеЛ-11
+2, Фiз.осн.електрон. (лаб),проф. Демкiв. Т.М.,106, NULL, NULL, NULL, Четвер, ФеЛ-11
+3, Мат.та комп.суч.ел. (лаб),доц. Матвiїшин I.М.,422, NULL, NULL, NULL, Четвер, ФеЛ-11
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеЛ-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеЛ-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеЛ-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеЛ-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеЛ-11
+2, Арх.комп. i прогр. (лекц),доц. Слободзян Д.П.,413, NULL, NULL, NULL, Пятниця, ФеЛ-11
+3, Мат.та комп.суч.ел. (лекц),доц. Матвiїшин I.М.,413, NULL, NULL, NULL, Пятниця, ФеЛ-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-11
+2, Веб-технологiї (лаб),ас. Ткаченко О, NULL, NULL, NULL, NULL, Понедiлок, ФеП-11
+3, Об.-орiєнт.прогр. (лекц),доц. Кушнiр. О.О.,130, NULL, NULL, NULL, Понедiлок, ФеП-11
+4, Веб-технологiї (лекц),ас. Ткаченко О, NULL, NULL, NULL, NULL, Понедiлок, ФеП-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-11
+2, Веб-технологiї (лаб),ас. Мисюк I.В, NULL, NULL, NULL, NULL, Вiвторок, ФеП-11
+3, Вища математика (пр),доц. Стахiв Л.Л.,4, NULL, NULL, NULL, Вiвторок, ФеП-11
+4, Iноземна мова (пр),доц. Iсаєва Г.Т.,80, NULL, NULL, NULL, Вiвторок, ФеП-11
+5, Фiзвиховання (лекц), NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-11
+3, Дискр. математ. (лаб),доц. Вельгош С.Р.,3,ОС, сист. прогр. (лаб),доц. Бойко Я.В.,9,Середа, ФеП-11
+4, Iноземна мова (пр),доц. Iсаєва Г.Т.,73, NULL, NULL, NULL, Середа, ФеП-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-11
+2, Об.-орiєнт.прогр. (лаб),доц. Кушнiр. О.О.,4,Дискр. математ. (лаб),доц. Вельгош С.Р.,3,Четвер, ФеП-11
+3, ОС, сист. прогр. (лаб),доц. Бойко Я.В.,8,Об.-орiєнт.прогр. (лаб),ас. Бавдис М.I.,1,Четвер, ФеП-11
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-11
+2, Дискр. математ. (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Пятниця, ФеП-11
+3, Вища математика (лекц),доц. Стахiв Л.Л.,128, NULL, NULL, NULL, Пятниця, ФеП-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-12
+3, Об.-орiєнт.прогр. (лекц),доц. Кушнiр. О.О.,130, NULL, NULL, NULL, Понедiлок, ФеП-12
+4, Веб-технологiї (лекц),ас. Ткаченко. О, NULL, NULL, NULL, NULL, Понедiлок, ФеП-12
+5, Веб-технологiї (лаб),ас. Ткаченко. О, NULL,Веб-технологiї (лаб),ас. Мисюк Р.В, NULL., Понедiлок, ФеП-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-12
+3, ОС, сист. прогр. (лаб),доц. Бойко Я.В.,8, NULL, NULL, NULL, Вiвторок, ФеП-12
+4, Iноземна мова (пр),доц. Сологуб Л.В.,123, NULL, NULL, NULL, Вiвторок, ФеП-12
+5, Фiзвиховання (лекц), NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-12
+3, Дискр. математ. (лаб),ас. Кучеренко О.I.,4,Об.-орiєнт.прогр. (лаб),ас. Бавдис М.I.,6,Середа, ФеП-12
+4, Iноземна мова (пр),доц. Сологуб Л.В.,123, NULL, NULL, NULL, Середа, ФеП-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-12
+2, Вища математика (пр),доц. Стахiв Л.Л.,405, NULL, NULL, NULL, Четвер, ФеП-12
+3, Об.-орiєнт.прогр. (лаб),ас. Шевчук В.Д.,4,Дискр. математ. (лаб),ас. Кучеренко О.I.,2,Четвер, ФеП-12
+4, ОС, сист. прогр. (лаб),доц. Бойко Я.В.,8, NULL, NULL, NULL, Четвер, ФеП-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-12
+2, Дискр. математ. (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Пятниця, ФеП-12
+3, Вища математика (лекц),доц. Стахiв Л.Л.,128, NULL, NULL, NULL, Пятниця, ФеП-12
+1, Веб-технологiї (лаб),ас. Ткаченко. О, NULL, NULL, NULL, NULL, Понедiлок, ФеП-13
+2, Об.-орiєнт.прогр. (лаб),ас. Шевчук В.Д.,3, NULL, NULL, NULL, Понедiлок, ФеП-13
+3, Об.-орiєнт.прогр. (лекц),доц. Кушнiр. О.О.,130, NULL, NULL, NULL, Понедiлок, ФеП-13
+4, Веб-технологiї (лекц),ас. Ткаченко. О, NULL, NULL, NULL, NULL, Понедiлок, ФеП-13
+5, Об.-орiєнт.прогр. (лаб),ас. Бавдис М.I.,3, NULL, NULL, NULL, Понедiлок, ФеП-13
+6, Веб-технологiї (лаб),ас. Ткаченко. О, NULL, NULL, NULL, NULL, Понедiлок, ФеП-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-13
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-13
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-13
+4, Iноземна мова (пр),ас. Шумська О.А.,5, NULL, NULL, NULL, Вiвторок, ФеП-13
+5, Фiзвиховання (лекц), NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-13
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-13
+3, ОС, сист. прогр. (лаб),ас. Сiнькевич. О.О.,8,Дискр. математ. (лаб),доц. Сас Н.Б.,1,Середа, ФеП-13
+4, Iноземна мова (пр),ас. Шумська О.А.,76, NULL, NULL, NULL, Середа, ФеП-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-13
+2, Дискр. математ. (лаб),ас. Кучеренко О.I.,12,ОС, сист. прогр. (лаб),ас. Сiнькевич. О.О.,9,Четвер, ФеП-13
+3, Вища математика (пр),доц. Стахiв Л.Л.,406, NULL, NULL, NULL, Четвер, ФеП-13
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-13
+2, Дискр. математ. (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Пятниця, ФеП-13
+3, Вища математика (лекц),доц. Стахiв Л.Л.,128, NULL, NULL, NULL, Пятниця, ФеП-13
+1, Веб-технологiї (лаб),доц. Ляшкевич В, NULL, NULL, NULL, NULL, Понедiлок, ФеП-14
+2, Операц. системи (лекц),доц. Бойко Я.В.,4, NULL, NULL, NULL, Понедiлок, ФеП-14
+3, Об.-орiєнт.прогр. (лекц),доц. Кушнiр. О.О.,130, NULL, NULL, NULL, Понедiлок, ФеП-14
+4, Веб-технологiї (лекц),доц. Ляшкевич В, NULL, NULL, NULL, NULL, Понедiлок, ФеП-14
+5, Веб-технологiї (лаб),доц. Ляшкевич В, NULL, NULL, NULL, NULL, Понедiлок, ФеП-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-14
+2, Вища математика (пр),ст. вик. Саницька А.О.,5, NULL, NULL, NULL, Вiвторок, ФеП-14
+3, Об.-орiєнт.прогр. (лаб),ас. Бавдис М.I.,6,Дискр. математ. (лаб),доц. Середницька Х.I.,12,Вiвторок, ФеП-14
+4, Iноземна мова (пр),доц. Бiлинська Х.В.,129а, NULL, NULL, NULL, Вiвторок, ФеП-14
+5, Фiзвиховання (лекц), NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-14
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-14
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-14
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-14
+4, Iноземна мова (пр),доц. Бiлинська Х.В.,129а, NULL, NULL, NULL, Середа, ФеП-14
+5, Дискр. математ. (лаб),доц. Середницька Х.I.,1,Операц. системи (лаб),доц. Бойко Я.В.,8,Середа, ФеП-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-14
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-14
+2, Операц. системи (лаб),доц. Бойко Я.В.,8,Об.-орiєнт.прогр. (лаб),ас. Шевчук В.Д.,6,Четвер, ФеП-14
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-14
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-14
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-14
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-14
+2, Дискр. математ. (лекц),доц. Вельгош С.Р.,129, NULL, NULL, NULL, Пятниця, ФеП-14
+3, Вища математика (лекц),доц. Стахiв Л.Л.,128, NULL, NULL, NULL, Пятниця, ФеП-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-11
+3, Вища математика (лекц),доц. Цаповська Ж.Я.,3, NULL, NULL, NULL, Понедiлок, ФеM-11
+4, Загальна фiзика (лекц),проф. Стасюк З.В.,2, NULL, NULL, NULL, Понедiлок, ФеM-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-11
+3, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Вiвторок, ФеM-11
+4, Вища математика (пр),ас. Казанiвський М.I.,405, NULL, NULL, NULL, Вiвторок, ФеM-11
+5, Фiзвиховання (лекц),- -.. Сп-кс, NULL, NULL, NULL, Вiвторок, ФеM-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-11
+2, Програмування (лаб),доц. Лис Р.М.,4, NULL, NULL, NULL, Середа, ФеM-11
+3, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Середа, ФеM-11
+4, Загальна фiзика (пр),проф. Стасюк З.В.,4,Фiз.практикум (лаб),ас. Бучковська М.Д.,405, Середа, ФеM-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-11
+3, Фiз.практикум (лаб),ас. Бучковська М.Д.,405,Загальна фiзика (пр),проф. Стасюк З.В.,4,Четвер, ФеM-11
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-11
+5, Програмування (лаб),доц. Лис Р.М.,4, NULL, NULL, NULL, Четвер, ФеM-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-11
+2, Програмування (лекц),доц. Лис Р.М.,130, NULL, NULL, NULL, Пятниця, ФеM-11
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-12
+3, Вища математика (лекц),доц. Цаповська Ж.Я.,3, NULL, NULL, NULL, Понедiлок, ФеM-12
+4, Загальна фiзика (лекц),проф. Стасюк З.В.,2, NULL, NULL, NULL, Понедiлок, ФеM-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-12
+2, Загальна фiзика (пр),проф. Стасюк З.В.,4, NULL, NULL, NULL, Вiвторок, ФеM-12
+3, Iноземна мова (пр),ас. Забава I.М.,312,Iноземна мова (пр),ас. Потичко С.I.,122,Вiвторок, ФеM-12
+4, Вища математика (пр),доц. Цаповська Ж.Я.,4, NULL, NULL, NULL, Вiвторок, ФеM-12
+5, Фiзвиховання (лекц),- -.. Сп-кс, NULL, NULL, NULL, Вiвторок, ФеM-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-12
+3, Iноземна мова (пр),ас. Забава I.М.,72,Iноземна мова (пр),ас. Потичко С.I.,122,Середа, ФеM-12
+4, Програмування (лаб),ас. Кушлик М.О.,4, NULL, NULL, NULL, Середа, ФеM-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-12
+3, Фiз.практикум (лаб),ас. Хомишин I.Ю.,106,Програмування (лаб),ас. Кушлик М.О.,3,Четвер, ФеM-12
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-12
+5, Загальна фiзика (пр),проф. Стасюк З.В.,4,Фiз.практикум (лаб),ас. Хомишин I.Ю.,106,Четвер, ФеM-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-12
+2, Програмування (лекц),доц. Лис Р.М.,130, NULL, NULL, NULL, Пятниця, ФеM-12
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-11
+2, Об.-орiєнт.прогр. (лекц),доц. Хвищун I.О.,1, NULL, NULL, NULL, Понедiлок, ФеI-11
+3, Електротехн.i елект. (лекц),проф. Карбовник I.Д.,1, NULL, NULL, NULL, Понедiлок, ФеI-11
+4, Дискр. математ. (лекц),доц. Вельгош С.Р.,1, NULL, NULL, NULL, Понедiлок, ФеI-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-11
+3, Iноземна мова (пр),доц. Iсаєва Г.Т.,80, NULL, NULL, NULL, Вiвторок, ФеI-11
+4, Об.-орiєнт.прогр. (лаб),ас. Шевчук В.Д.,3, NULL, NULL, NULL, Вiвторок, ФеI-11
+5, Фiзвиховання (лекц),- . Сп-кс, NULL, NULL, NULL, Вiвторок, ФеI-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-11
+1, Мат.аналiз (пр),ас. Казанiвський М.I.,405, NULL, NULL, NULL, Середа, ФеI-11
+2, Дискр. математ. (лаб),доц. Середницька Х.I.,3,Об.-орiєнт.прогр. (лаб),ас. Шевчук В.Д.,1,Середа, ФеI-11
+3, Iноземна мова (пр),доц. Iсаєва Г.Т.,73, NULL, NULL, NULL, Середа, ФеI-11
+4, Дискр. математ. (лаб),доц. Середницька Х.I.,6, NULL, NULL, NULL, Середа, ФеI-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-11
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-11
+3, Фiз.осн.оптоелектр. (лаб),доц. Корчак Ю.М.,223,Електротехн.i елект. (лаб),проф. Карбовник I.Д. АК.,1,Четвер, ФеI-11
+4, Електротехн.i елект. (лаб),проф. Карбовник I.Д. АК.,1,Фiз.осн.оптоелектр. (лаб),доц. Корчак Ю.М.,223,Четвер, ФеI-11
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-11
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-11
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-11
+2, Фiз.осн.оптоелектр. (лекц),доц. Корчак Ю.М.,1, NULL, NULL, NULL, Пятниця, ФеI-11
+3, Мат.аналiз (лекц),доц. Цаповська Ж.Я.,1, NULL, NULL, NULL, Пятниця, ФеI-11
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-12
+2, Об.-орiєнт.прогр. (лекц),доц. Хвищун I.О.,1, NULL, NULL, NULL, Понедiлок, ФеI-12
+3, Електротехн.i елект. (лекц),проф. Карбовник I.Д.,1, NULL, NULL, NULL, Понедiлок, ФеI-12
+4, Дискр. математ. (лекц),доц. Вельгош С.Р.,1, NULL, NULL, NULL, Понедiлок, ФеI-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-12
+2, Електротехн.i елект. (лаб),проф. Рендзiняк С.Й. АК.,1,Фiз.осн.оптоелектр. (лаб),проф. Половинко I.I.,223,Вiвторок, ФеI-12
+3, Iноземна мова (пр),доц. Сологуб Л.В.,123, NULL, NULL, NULL, Вiвторок, ФеI-12
+4, Дискр. математ. (лаб),доц. Середницька Х.I.,1,Об.-орiєнт.прогр. (лаб),доц. Хвищун I.О.,6,Вiвторок, ФеI-12
+5, Фiзвиховання (лекц),- . Сп-кс, NULL, NULL, NULL, Вiвторок, ФеI-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-12
+2, Електротехн.i елект. (лаб),ас. Шмигельський Я.А. АК.,1, NULL, NULL, NULL, Середа, ФеI-12
+3, Iноземна мова (пр),доц. Сологуб Л.В.,123, NULL, NULL, NULL, Середа, ФеI-12
+4, Мат.аналiз (пр),доц. Петрук Т.М.,406, NULL, NULL, NULL, Середа, ФеI-12
+5, Фiз.осн.оптоелектр. (лаб),ас. Горон Б.I.,223, NULL, NULL, NULL, Середа, ФеI-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-12
+1, Об.-орiєнт.прогр. (лаб),доц. Хвищун I.О.,6, NULL, NULL, NULL, Четвер, ФеI-12
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-12
+3, Дискр. математ. (лаб),доц. Середницька Х.I.,6, NULL, NULL, NULL, Четвер, ФеI-12
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-12
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-12
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-12
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-12
+2, Фiз.осн.оптоелектр. (лекц),доц. Корчак Ю.М.,1, NULL, NULL, NULL, Пятниця, ФеI-12
+3, Мат.аналiз (лекц),доц. Цаповська Ж.Я.,1, NULL, NULL, NULL, Пятниця, ФеI-12
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-13
+2, Об.-орiєнт.прогр. (лекц),доц. Хвищун I.О.,1, NULL, NULL, NULL, Понедiлок, ФеI-13
+3, Електротехн.i елект. (лекц),проф. Карбовник I.Д.,1, NULL, NULL, NULL, Понедiлок, ФеI-13
+4, Дискр. математ. (лекц),доц. Вельгош С.Р.,1, NULL, NULL, NULL, Понедiлок, ФеI-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-13
+2, Мат.аналiз (пр),доц. Цаповська Ж.Я.,3, NULL, NULL, NULL, Вiвторок, ФеI-13
+3, Iноземна мова (пр),ас. Шумська О.А.,5, NULL, NULL, NULL, Вiвторок, ФеI-13
+4, Електротехн.i елект. (лаб),ас. Шмигельський Я.А. АК.,1,Фiз.осн.оптоелектр. (лаб),ас. Дверiй О.Р.,223,Вiвторок, ФеI-13
+5, Фiзвиховання (лекц),- . Сп-кс, NULL, NULL, NULL, Вiвторок, ФеI-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-13
+1, Електротехн.i елект. (лаб),проф. Рендзiняк С.Й. АК.,1, NULL, NULL, NULL, Середа, ФеI-13
+2, Об.-орiєнт.прогр. (лаб),ас. Дзiковський В.Є.,2,Об.-орiєнт.прогр. (лаб),ас. Левуш П.Н.,6,Середа, ФеI-13
+3, Iноземна мова (пр),ас. Шумська О.А.,76, NULL, NULL, NULL, Середа, ФеI-13
+4, Фiз.осн.оптоелектр. (лаб),ас. Дверiй О.Р.,223, NULL, NULL, NULL, Середа, ФеI-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-13
+1, Дискр. математ. (лаб),ас. Шмигельський Я.А.,4,Дискр. математ. (лаб),доц. Вельгош С.Р.,12,Четвер, ФеI-13
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-13
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-13
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-13
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-13
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-13
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-13
+2, Фiз.осн.оптоелектр. (лекц),доц. Корчак Ю.М.,1, NULL, NULL, NULL, Пятниця, ФеI-13
+3, Мат.аналiз (лекц),доц. Цаповська Ж.Я.,1, NULL, NULL, NULL, Пятниця, ФеI-13
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-14
+2, Об.-орiєнт.прогр. (лекц),доц. Хвищун I.О.,1, NULL, NULL, NULL, Понедiлок, ФеI-14
+3, Електротехн.i елект. (лекц),проф. Карбовник I.Д.,1, NULL, NULL, NULL, Понедiлок, ФеI-14
+4, Дискр. математ. (лекц),доц. Вельгош С.Р.,1, NULL, NULL, NULL, Понедiлок, ФеI-14
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-14
+2, Об.-орiєнт.прогр. (лаб),ас. Шевчук В.Д.,3, NULL, NULL, NULL, Вiвторок, ФеI-14
+3, Iноземна мова (пр),доц. Бiлинська Х.В.,129а, NULL, NULL, NULL, Вiвторок, ФеI-14
+4, Дискр. математ. (лаб),доц. Сас Н.Б.,4, NULL, NULL, NULL, Вiвторок, ФеI-14
+5, Фiзвиховання (лекц),- . Сп-кс, NULL, NULL, NULL, Вiвторок, ФеI-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-14
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-14
+2, Фiз.осн.оптоелектр. (лаб),ас. Дверiй О.Р.,223, NULL, NULL, NULL, Середа, ФеI-14
+3, Iноземна мова (пр),доц. Бiлинська Х.В.,129а, NULL, NULL, NULL, Середа, ФеI-14
+4, Електротехн.i елект. (лаб),ас. Риковський П.А. АК.,1, NULL, NULL, NULL, Середа, ФеI-14
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-14
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-14
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-14
+3, Мат.аналiз (пр),ас. Казанiвський М.I.,129а, NULL, NULL, NULL, Четвер, ФеI-14
+4, Дискр. математ. (лаб),ас. Шмигельський Я.А.,313,Об.-орiєнт.прогр. (лаб),доц. Хвищун I.О.,12,Четвер, ФеI-14
+5, Електротехн.i елект. (лаб),ас. Риковський П.А. АК.,1,Фiз.осн.оптоелектр. (лаб),ас. Дверiй О.Р.,223,Четвер, ФеI-14
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-14
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-14
+2, Фiз.осн.оптоелектр. (лекц),доц. Корчак Ю.М.,1, NULL, NULL, NULL, Пятниця, ФеI-14
+3, Мат.аналiз (лекц),доц. Цаповська Ж.Я.,1, NULL, NULL, NULL, Пятниця, ФеI-14
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-15
+2, Об.-орiєнт.прогр. (лекц),доц. Хвищун I.О.,1, NULL, NULL, NULL, Понедiлок, ФеI-15
+3, Електротехн.i елект. (лекц),проф. Карбовник I.Д.,1, NULL, NULL, NULL, Понедiлок, ФеI-15
+4, Дискр. математ. (лекц),доц. Вельгош С.Р.,1, NULL, NULL, NULL, Понедiлок, ФеI-15
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-15
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-15
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-15
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-15
+3, Iноземна мова (пр),ас. Буловчак А.О.,76,Iноземна мова (пр),Плахотник Н.В.,213,Вiвторок, ФеI-15
+4, Дискр. математ. (лаб),доц. Вельгош С.Р.,12,Об.-орiєнт.прогр. (лаб),ас. Левуш П.Н.,2,Вiвторок, ФеI-15
+5, Фiзвиховання (лекц),- . Сп-кс, NULL, NULL, NULL, Вiвторок, ФеI-15
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-15
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-15
+1, Фiз.осн.оптоелектр. (лаб),ас. Горон Б.I.,223, NULL, NULL, NULL, Середа, ФеI-15
+2, Мат.аналiз (пр),проф. Чижиков I.Е.,129а, NULL, NULL, NULL, Середа, ФеI-15
+3, Iноземна мова (пр),ас. Буловчак А.О.,5,Iноземна мова (пр),Плахотник Н.В.,213,Середа, ФеI-15
+4, Об.-орiєнт.прогр. (лаб),ас. Левуш П.Н.,2,Дискр. математ. (лаб),ас. Шмигельський Я.А..,1,Середа, ФеI-15
+5, Електротехн.i елект. (лаб),ас. Шевчук В.Д. АК.,1, NULL, NULL, NULL, Середа, ФеI-15
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-15
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-15
+1, Фiз.осн.оптоелектр. (лаб),доц. Корчак Ю.М.,223,Електротехн.i елект. (лаб),доц. Злобiн Г.Г. АК.,1,Четвер, ФеI-15
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-15
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-15
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-15
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-15
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-15
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-15
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-15
+2, Фiз.осн.оптоелектр. (лекц),доц. Корчак Ю.М.,1, NULL, NULL, NULL, Пятниця, ФеI-15
+3, Мат.аналiз (лекц),доц. Цаповська Ж.Я.,1, NULL, NULL, NULL, Пятниця, ФеI-15
+1, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Понедiлок, ФеC-21
+2, Методи обчислень (лаб),ас. Мисюк I.В.,9,Комп.iнф.мережi (лаб),ас. Столярчук О.В.,8,Понедiлок, ФеC-21
+3, Безп.розг.обч.систем (лаб),доц. Флюнт О.Є.,5, NULL, NULL, NULL, Понедiлок, ФеC-21
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-21
+2, Комп.iнф.мережi (лаб),ас. Столярчук О.В.,10,Сист.опрац.даних (лаб),доц. Демкiв Л.С.,5,Вiвторок, ФеC-21
+3, ДВВС (лекц),// .. -, NULL, NULL, NULL, Вiвторок, ФеC-21
+4, ДВВС (лекц),// .. -, NULL, NULL, NULL, Вiвторок, ФеC-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-21
+2, Сист.опрац.даних (лекц),доц. Демкiв Л.С.,5, NULL, NULL, NULL, Середа, ФеC-21
+3, Комп.iнф.мережi (лекц),ас. Столярчук О.В.,3, NULL, NULL, NULL, Середа, ФеC-21
+4, Безп.розг.обч.систем (лекц),доц. Флюнт О.Є.,3, NULL, NULL, NULL, Середа, ФеC-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-21
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-21
+3, Iноземна мова (пр),доц. Шандра Н.А.,213, NULL, NULL, NULL, Четвер, ФеC-21
+4, Сист.опрац.даних (лаб),доц. Демкiв Л.С.,5,Безп.розг.обч.систем (лаб),доц. Флюнт О.Є.,10,Четвер, ФеC-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-21
+1, Методи обчислень (лаб),ас. Каськун О.Д.,9, NULL, NULL, NULL, Пятниця, ФеC-21
+2, Методи обчислень (лекц),проф. Демкiв Т.М.,5, NULL, NULL, NULL, Пятниця, ФеC-21
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-21
+1, Iноземна мова (пр),доц. Сологуб Л.В.,406, NULL, NULL, NULL, Понедiлок, ФеП-21
+2, Веб-програмування (лекц),Мокiй О.А. ELEKS, NULL, NULL, NULL, Понедiлок, ФеП-21
+3, Веб-програмування (лаб),Мокiй О.А., NULL, Веб-програмування (лаб),ас. Каськун О.Д., NULL, Понедiлок, ФеП-21
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-21
+2, Вища математика (пр),доц. Зелiско Г.В.,406, NULL, NULL, NULL, Вiвторок, ФеП-21
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-21
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-21
+2, Паралельне програм. (лекц),доц. Шувар Р.Я.,2, NULL, NULL, NULL, Середа, ФеП-21
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-21
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-21
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-21
+3, Iноземна мова (пр),доц. Сологуб Л.В.,312, NULL, NULL, NULL, Четвер, ФеП-21
+4, Паралельне програм. (лаб),ас. Каськун О.Д.,9,Паралельне програм. (лаб),ас. Мисюк Р.В.,11,Четвер, ФеП-21
+5, Пр.стат.та ймов.пр. (лаб),доц. Сас Н.Б.,1,Пр.стат.та ймов.пр. (лаб),ас. Шмигельський Я.А.,6,Четвер, ФеП-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-21
+1, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Пятниця, ФеП-21
+2, Пр.стат.та ймов.пр. (лекц),доц. Сас Н.Б.,122, NULL, NULL, NULL, Пятниця, ФеП-21
+3, ДВВС (лекц), NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-21
+1, Iноземна мова (пр),ас. Шумська О.А.,5, NULL, NULL, NULL, Понедiлок, ФеП-22
+2, Веб-програмування (лекц),Мокiй. О.А, NULL, NULL, NULL, NULL, Понедiлок, ФеП-22
+3, Веб-програмування (лаб),ас. Мисюк I.В., NULL, NULL, NULL, NULL, Понедiлок, ФеП-22
+4, Веб-програмування (лаб),ас. Мисюк I.В., NULL, NULL, NULL, NULL, Понедiлок, ФеП-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-22
+1, Вища математика (пр),доц. Зелiско Г.В.,3, NULL, NULL, NULL, Вiвторок, ФеП-22
+2, Паралельне програм. (лаб),ст. вик. Ковтко Р.Т.,12,Пр.стат.та ймов.пр. (лаб),ас. Шмигельський Я.А.,313,Вiвторок, ФеП-22
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-22
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-22
+2, Паралельне програм. (лекц),доц. Шувар Р.Я.,2, NULL, NULL, NULL, Середа, ФеП-22
+3, Паралельне програм. (лаб),ст. вик. Ковтко Р.Т. NULL, NULL, NULL, NULL, Середа, ФеП-22
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-22
+1, Пр.стат.та ймов.пр. (лаб),доц. Сас Н.Б.,313, NULL, NULL, NULL, Четвер, ФеП-22
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-22
+3, Iноземна мова (пр),ас. Шумська О.А.,5, NULL, NULL, NULL, Четвер, ФеП-22
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-22
+1, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Пятниця, ФеП-22
+2, Пр.стат.та ймов.пр. (лекц),доц. Сас Н.Б.,122, NULL, NULL, NULL, Пятниця, ФеП-22
+3, ДВВС (лекц), NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-22
+1, Iноземна мова (пр),ас. Брона О.А.,405, NULL, NULL, NULL, Понедiлок, ФеП-23
+2, Вища математика (пр),ас. Казанiвський М.I.,122, NULL, NULL, NULL, Понедiлок, ФеП-23
+3, Пр.стат.та ймов.пр. (лаб),доц. Сас Н.Б.,313, NULL, NULL, NULL, Понедiлок, ФеП-23
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-23
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-23
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-23
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-23
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-23
+5, Паралельне програм. (лаб),ст. вик. Ковтко Р.Т.,9, NULL, NULL, NULL, Вiвторок, ФеП-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-23
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-23
+2, Паралельне програм. (лекц),доц. Шувар Р.Я.,2, NULL, NULL, NULL, Середа, ФеП-23
+3, Веб-технологiї (лекц),доц. Ляшкевич В, NULL, NULL, NULL, NULL, Середа, ФеП-23
+4, Веб-технологiї (лаб),доц. Ляшкевич В, NULL, NULL, NULL, NULL, Середа, ФеП-23
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-23
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-23
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-23
+3, Iноземна мова (пр),ас. Брона О.А.,405, NULL, NULL, NULL, Четвер, ФеП-23
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-23
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-23
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-23
+1, Вища математика (лекц),доц. Зелiско Г.В.,128, NULL, NULL, NULL, Пятниця, ФеП-23
+2, Пр.стат.та ймов.пр. (лекц),доц. Сас Н.Б.,122, NULL, NULL, NULL, Пятниця, ФеП-23
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-23
+1, Iноземна мова (пр),доц. Бiлинська Х.В.,123, NULL, NULL, NULL, Понедiлок, ФеM-21
+2, Бiомед.iнж.та шт.iн. (лаб),ас. Медвiдь I.I.,408,Цифровi сигнали (лаб),доц. Слободзян Д.П.,4,Понедiлок, ФеM-21
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-21
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-21
+1, Бiомед.iнж.та шт.iн. (лаб),ас. Медвiдь I.I.,408, NULL, NULL, NULL, Вiвторок, ФеM-21
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-21
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-21
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-21
+2, Цифровi сигнали (лекц),доц. Слободзян Д.П.,407, NULL, NULL, NULL, Середа, ФеM-21
+3, Бiомед.iнж.та шт.iн. (лекц),проф. Бордун О.М.,2, NULL, NULL, NULL, Середа, ФеM-21
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-21
+1, САПР електр.систем (лаб),доц. Кухарський I.Й.,5,Мiкропроцес.технiка (лаб),доц. Рабик В.Г.,1,Четвер, ФеM-21
+2, Мiкропроцес.технiка (лаб),доц. Рабик В.Г.,1,САПР електр.систем (лаб),доц. Кухарський I.Й.,5,Четвер, ФеM-21
+3, Iноземна мова (пр),доц. Бiлинська Х.В.,413, NULL, NULL, NULL, Четвер, ФеM-21
+4, Цифровi сигнали (лаб),доц. Слободзян Д.П.,7, NULL, NULL, NULL, Четвер, ФеM-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-21
+1, САПР електр.систем (лекц),доц. Кухарський I.Й.,2, NULL, NULL, NULL, Пятниця, ФеM-21
+2, Мiкропроцес.технiка (лекц),доц. Рабик В.Г.,407, NULL, NULL, NULL, Пятниця, ФеM-21
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-21
+1, Iноземна мова (пр),доц. Кушпiт У.В.,129а, NULL, NULL, NULL, Понедiлок, ФеM-22
+2, САПР електр.систем (лаб),доц. Кухарський I.Й.,5,Мiкропроцес.технiка (лаб),доц. Рабик В.Г.,1,Понедiлок, ФеM-22
+3, Цифровi сигнали (лаб),доц. Слободзян Д.П.,4, NULL, NULL, NULL, Понедiлок, ФеM-22
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-22
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-22
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-22
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-22
+5, САПР електр.систем (лаб),доц. Кухарський I.Й.,5, NULL, NULL, NULL, Вiвторок, ФеM-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-22
+2, Цифровi сигнали (лекц),доц. Слободзян Д.П.,407, NULL, NULL, NULL, Середа, ФеM-22
+3, Бiомед.iнж.та шт.iн. (лекц),проф. Бордун О.М.,2, NULL, NULL, NULL, Середа, ФеM-22
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-22
+2, Бiомед.iнж.та шт.iн. (лаб),ас. Медвiдь I.I.,408,Цифровi сигнали (лаб),доц. Слободзян Д.П.,10,Четвер, ФеM-22
+3, Iноземна мова (пр),доц. Кушпiт У.В.,129, NULL, NULL, NULL, Четвер, ФеM-22
+4, Мiкропроцес.технiка (лаб),доц. Рабик В.Г.,1,Бiомед.iнж.та шт.iн. (лаб),ас. Медвiдь I.I.,408,Четвер, ФеM-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-22
+1, САПР електр.систем (лекц),доц. Кухарський I.Й.,2, NULL, NULL, NULL, Пятниця, ФеM-22
+2, Мiкропроцес.технiка (лекц),доц. Рабик В.Г.,407, NULL, NULL, NULL, Пятниця, ФеM-22
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-22
+1, Арх.обч.сис.та к.сх. (лаб),проф. Коман Б.П.,8,Мат.мет.досл.опер. (лаб),ас. Мостова М.Р.,3,Понедiлок, ФеI-21
+2, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Понедiлок, ФеI-21
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-21
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-21
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-21
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-21
+4, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-21
+5, Обч.геом.i комп.граф (лаб),доц. Стахiра Р.Й.,3,Орг.баз дан.та знань (лаб),ас. Парубочий В.О.,11,Вiвторок, ФеI-21
+6, Мат.мет.досл.опер. (лаб),ас. Мостова М.Р.,313,Арх.обч.сис.та к.сх. (лаб),проф. Коман Б.П.,8,Вiвторок, ФеI-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-21
+2, Арх.обч.сис.та к.сх. (лекц),проф. Коман Б.П.,1, NULL, NULL, NULL, Середа, ФеI-21
+3, Орг.баз дан.та знань (лекц),ас. Парубочий В.О.,1, NULL, NULL, NULL, Середа, ФеI-21
+4, Обч.геом.i комп.граф (лекц),доц. Демкiв Л.С.,1, NULL, NULL, NULL, Середа, ФеI-21
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-21
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-21
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-21
+4, Iноземна мова (пр),доц. Шандра Н.А.,407, NULL, NULL, NULL, Четвер, ФеI-21
+5, Орг.баз дан.та знань (лаб),ас. Парубочий В.О.,9,Обч.геом.i комп.граф (лаб),доц. Демкiв Л.С.,8,Четвер, ФеI-21
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-21
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-21
+2, Мат.мет.досл.опер. (лекц),доц. Паночко Г.I.,2, NULL, NULL, NULL, Пятниця, ФеI-21
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Пятниця, ФеI-21
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-22
+2, Iноземна мова (пр),доц. Сологуб Л.В.,406, NULL, NULL, NULL, Понедiлок, ФеI-22
+3, Орг.баз дан.та знань (лаб),ас. Парубочий В.О.,1,Мат.мет.досл.опер. (лаб),ас. Мостова М.Р.,6,Понедiлок, ФеI-22
+4, Арх.обч.сис.та к.сх. (лаб),проф. Коман Б.П.,8, NULL, NULL, NULL, Понедiлок, ФеI-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-22
+2, Арх.обч.сис.та к.сх. (лаб),проф. Коман Б.П.,11, NULL, NULL, NULL, Вiвторок, ФеI-22
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-22
+4, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-22
+6, Орг.баз дан.та знань (лаб),ас. Мисюк I.В.,12, NULL, NULL, NULL, Вiвторок, ФеI-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-22
+2, Арх.обч.сис.та к.сх. (лекц),проф. Коман Б.П.,1, NULL, NULL, NULL, Середа, ФеI-22
+3, Орг.баз дан.та знань (лекц),ас. Парубочий В.О.,1, NULL, NULL, NULL, Середа, ФеI-22
+4, Обч.геом.i комп.граф (лекц),доц. Демкiв Л.С.,1, NULL, NULL, NULL, Середа, ФеI-22
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-22
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-22
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-22
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-22
+4, Iноземна мова (пр),доц. Сологуб Л.В.,406, NULL, NULL, NULL, Четвер, ФеI-22
+5, Мат.мет.досл.опер. (лаб),ас. Мостова М.Р.,2,Обч.геом.i комп.граф (лаб),доц. Стахiра Р.Й.,5,Четвер, ФеI-22
+6, Обч.геом.i комп.граф (лаб),доц. Стахiра Р.Й.,8, NULL, NULL, NULL, Четвер, ФеI-22
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-22
+2, Мат.мет.досл.опер. (лекц),доц. Паночко Г.I.,2, NULL, NULL, NULL, Пятниця, ФеI-22
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Пятниця, ФеI-22
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-23
+2, Iноземна мова (пр),ас. Шумська О.А.,129а, NULL, NULL, NULL, Понедiлок, ФеI-23
+3, Арх.обч.сис.та к.сх. (лаб),проф. Коман Б.П.,8,Обч.геом.i комп.граф (лаб),доц. Стахiра Р.Й.,11,Понедiлок, ФеI-23
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-23
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-23
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-23
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-23
+4, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-23
+5, Орг.баз дан.та знань (лаб),ас. Мисюк I.В.,12,Арх.обч.сис.та к.сх. (лаб),проф. Коман Б.П.,8,Вiвторок, ФеI-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-23
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-23
+2, Арх.обч.сис.та к.сх. (лекц),проф. Коман Б.П.,1, NULL, NULL, NULL, Середа, ФеI-23
+3, Орг.баз дан.та знань (лекц),ас. Парубочий В.О.,1, NULL, NULL, NULL, Середа, ФеI-23
+4, Обч.геом.i комп.граф (лекц),доц. Демкiв Л.С.,1, NULL, NULL, NULL, Середа, ФеI-23
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-23
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-23
+2, Мат.мет.досл.опер. (лаб),ас. Мостова М.Р.,7,Мат.мет.досл.опер. (лаб),доц. Паночко Г.I.,2,Четвер, ФеI-23
+3, Обч.геом.i комп.граф (лаб),доц. Стахiра Р.Й.,5,Орг.баз дан.та знань (лаб),ас. Мисюк I.В.,9,Четвер, ФеI-23
+4, Iноземна мова (пр),ас. Шумська О.А.,5,Iноземна мова (пр),доц. Кушпiт У.В.,122,Четвер, ФеI-23
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-23
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-23
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-23
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-23
+2, Мат.мет.досл.опер. (лекц),доц. Паночко Г.I.,2, NULL, NULL, NULL, Пятниця, ФеI-23
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Пятниця, ФеI-23
+1, Арх.обч.сис.та к.сх. (лаб),ас. Кушнiр В.В.,9,Орг.баз дан.та знань (лаб),ас. Каськун О.Д.,11,Понедiлок, ФеI-24
+2, Iноземна мова (пр),доц. Бiлинська Х.В.,123,Iноземна мова (пр),ас. Брона О.А.,405,Понедiлок, ФеI-24
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-24
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-24
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-24
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-24
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-24
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-24
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-24
+4, ДВВС (лекц),/ . -, NULL, NULL, NULL, Вiвторок, ФеI-24
+5, Обч.геом.i комп.граф (лаб),ас. Кулик П.Р.,4,Мат.мет.досл.опер. (лаб),доц. Паночко Г.I.,2,Вiвторок, ФеI-24
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-24
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-24
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-24
+2, Арх.обч.сис.та к.сх. (лекц),проф. Коман Б.П.,1, NULL, NULL, NULL, Середа, ФеI-24
+3, Орг.баз дан.та знань (лекц),ас. Парубочий В.О.,1, NULL, NULL, NULL, Середа, ФеI-24
+4, Обч.геом.i комп.граф (лекц),доц. Демкiв Л.С.,1, NULL, NULL, NULL, Середа, ФеI-24
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-24
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-24
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-24
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-24
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-24
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-24
+4, Iноземна мова (пр),доц. Бiлинська Х.В.,123,Iноземна мова (пр),ас. Брона О.А.,405,Четвер, ФеI-24
+5, Мат.мет.досл.опер. (лаб),доц. Паночко Г.I.,3,Арх.обч.сис.та к.сх. (лаб),ас. Кушнiр В.В.,11,Четвер, ФеI-24
+6, Орг.баз дан.та знань (лаб),ас. Мисюк I.В.,3, NULL, NULL, NULL, Четвер, ФеI-24
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-24
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-24
+2, Мат.мет.досл.опер. (лекц),доц. Паночко Г.I.,2, NULL, NULL, NULL, Пятниця, ФеI-24
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Пятниця, ФеI-24
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-31
+2, Сенс.та вик.механiз. (пр),доц. Оленич I.Б.,3,Професiйний Python (пр),проф. Свелеба С.А.,213,Понедiлок, ФеC-31
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-31
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-31
+5, Комп.ел.та цифр.сх. (лекц),доц. Рабик В.Г.,129, NULL, NULL, NULL, Понедiлок, ФеC-31
+6, Мобiльна розробка (лекц),доц. Кушнiр. О.О.,312, NULL, NULL, NULL, Понедiлок, ФеC-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-31
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-31
+4, Теорiя авт.керування (лаб),доц. Соколовський Б.С.,10,Мобiльна розробка (лаб),ас. Бавдис М.I.,313,Вiвторок, ФеC-31
+5, Мобiльна розробка (лаб),доц. Кушнiр. О.О.,313,Комп.ел.та цифр.сх. (лаб),доц. Рабик В.Г.,1,Вiвторок, ФеC-31
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-31
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-31
+4, Техн.захисту iнформ. (лаб),ас. Футей О.В.,10, NULL, NULL, NULL, Середа, ФеC-31
+5, Сенс.та вик.механiз. (лаб),ас. Сiнькевич О.О.,10,Професiйний Python (лаб),проф. Свелеба С.А.,7,Середа, ФеC-31
+6, Комп.ел.та цифр.сх. (лаб),доц. Рабик В.Г.,1, NULL, NULL, NULL, Середа, ФеC-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-31
+2, Техн.захисту iнформ. (лекц),проф. Монастирський Л.С.,2, NULL, NULL, NULL, Четвер, ФеC-31
+3, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-31
+4, ДВВС (лекц),NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-31
+5, Теорiя авт.керування (лекц),доц. Соколовський Б.С.,130, NULL, NULL, NULL, Четвер, ФеC-31
+6, Сучас.парад.програм. (лекц),доц. Паночко Г.I.,130, NULL, NULL, NULL, Четвер, ФеC-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-31
+3, Техн.захисту iнформ. (лаб),проф. Монастирський Л.С.,10,Сучас.парад.програм. (лаб),доц. Паночко Г.I.,3,Пятниця, ФеC-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеП-31
+2, Якiсть та тестув.ПЗ (лекц),доц. Любунь З.М.,312, NULL, NULL, NULL, Понедiлок, ФеП-31
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Понедiлок, ФеП-31
+4, ДВВС (лекц),/ . -, NULL, NULL, NULL, Понедiлок, ФеП-31
+5, Ан.реф.к.,мод.пр.ПЗ (лекц),ас. Гура В.Т.,4, NULL, NULL, NULL, Понедiлок, ФеП-31
+6, Зас. роб.з вел.дан. (лекц),проф. Демкiв Т.М.,4, NULL, NULL, NULL, Понедiлок, ФеП-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-31
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-31
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеП-31
+5, Ан.реф.к.,мод.пр.ПЗ (лаб),ас. Гура В.Т.,10, NULL, NULL, NULL, Вiвторок, ФеП-31
+6, Архiт.прогр.забезп. (лаб),доц. Оленич I.Б.,10,Зас. роб.з вел.дан. (лаб),проф. Демкiв Т.М.,4,Вiвторок, ФеП-31
+7, Архiт.прогр.забезп. (лаб),ас. Сiнькевич О.О.,10, NULL, NULL, NULL, Вiвторок, ФеП-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-31
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-31
+4, Мiкроконтр. (GL ESK) (лаб),доц. Бойко Я.В.,8, NULL, NULL, NULL, Середа, ФеП-31
+5, Зас. роб.з вел.дан. (лаб),проф. Демкiв Т.М.,9,Засоби машин.навчан. (лаб),ас. Рибак А.В.,3,Середа, ФеП-31
+6, Якiсть та тестув.ПЗ (лаб),доц. Любунь З.М.,6, NULL, NULL, NULL, Середа, ФеП-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеП-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-31
+2, Архiт.прогр.забезп. (лекц),доц. Оленич I.Б.,130, NULL, NULL, NULL, Четвер, ФеП-31
+3, ДВВС (лекц),/ . -, NULL, NULL, NULL, Четвер, ФеП-31
+4, ДВВС (лекц),/ . -, NULL, NULL, NULL, Четвер, ФеП-31
+5, Цифр.та аналог.елек. (пр),проф. Рендзiняк С.Й.,407,Засоби машин.навчан. (пр),ас. Рибак А.В.,406,Четвер, ФеП-31
+6, Мiкроконтр. (GL ESK) (пр),доц. Бойко Я.В.,3,Цифр.обр.зображень (пр),проф. Половинко I.I.,213,Четвер, ФеП-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеП-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеП-31
+2, Цифр.та аналог.елек. (лаб),проф. Рендзiняк С.Й.,12,Цифр.обр.зображень (лаб),проф. Половинко I.I.,7,Пятниця, ФеП-31
+3, Якiсть та тестув.ПЗ (лаб),доц. Любунь З.М.,6,Ан.реф.к.,мод.пр.ПЗ (лаб),ас. Гура В.Т.,9,Пятниця, ФеП-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-31
+2, Н/п електронiка (лекц),проф. Галiй П.В.,130, NULL, NULL, NULL, Понедiлок, ФеM-31
+3, ДВВС (лекц),// .. -, NULL, NULL, NULL, Понедiлок, ФеM-31
+4, ДВВС (лекц),// .. -, NULL, NULL, NULL, Понедiлок, ФеM-31
+5, Техн.фiз.експер. (лекц),ас. Бучковська М.Д.,3, NULL, NULL, NULL, Понедiлок, ФеM-31
+6, Мережi та протоколи (лекц),доц. Пенюх Б.Р.,3, NULL, NULL, NULL, Понедiлок, ФеM-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-31
+3, Автоматиз.експер. (лаб),ас. Кушлик М.О.,412, NULL, NULL, NULL, Вiвторок, ФеM-31
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-31
+5, Мережi та протоколи (лаб),доц. Пенюх Б.Р.,106, NULL, NULL, NULL, Вiвторок, ФеM-31
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-31
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-31
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-31
+5, Н/п електронiка (лаб),ас. Каюн I.В.,115,Силова електронiка (лаб),доц. Бiгун Р.I.,416,Середа, ФеM-31
+6, Мережi та протоколи (лаб),доц. Пенюх Б.Р.,106, NULL, NULL, NULL, Середа, ФеM-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-31
+3, ДВВС (лекц),// .. -, NULL, NULL, NULL, Четвер, ФеM-31
+4, ДВВС (лекц),// .. -, NULL, NULL, NULL, Четвер, ФеM-31
+5, Автоматиз.експер. (лекц),ас. Кушлик М.О.,122, NULL, NULL, NULL, Четвер, ФеM-31
+6, Силова електронiка (лекц),доц. Бiгун Р.I.,4, NULL, NULL, NULL, Четвер, ФеM-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-31
+2, Силова електронiка (лаб),доц. Бiгун Р.I.,416,Н/п електронiка (лаб),ас. Каюн I.В.,115,Пятниця, ФеM-31
+3, Автоматиз.експер. (лаб),ас. Кушлик М.О.,412, NULL, NULL, NULL, Пятниця, ФеM-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-32
+2, Н/п електронiка (лекц),проф. Галiй П.В.,130, NULL, NULL, NULL, Понедiлок, ФеM-32
+3, ДВВС (лекц),// .. -, NULL, NULL, NULL, Понедiлок, ФеM-32
+4, ДВВС (лекц),// .. -, NULL, NULL, NULL, Понедiлок, ФеM-32
+5, Техн.фiз.експер. (лекц),ас. Бучковська М.Д.,3, NULL, NULL, NULL, Понедiлок, ФеM-32
+6, Мережi та протоколи (лекц),доц. Пенюх Б.Р.,3, NULL, NULL, NULL, Понедiлок, ФеM-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-32
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-32
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-32
+4, Н/п електронiка (лаб),проф. Галiй П.В.,115,Мережi та протоколи (лаб),доц. Пенюх Б.Р.,106,Вiвторок, ФеM-32
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-32
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-32
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-32
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-32
+3, Автоматиз.експер. (лаб),ас. Кушлик М.О.,412,Н/п електронiка (лаб),проф. Галiй П.В.,115,Середа, ФеM-32
+4, Мережi та протоколи (лаб),доц. Пенюх Б.Р.,106, NULL, NULL, NULL, Середа, ФеM-32
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-32
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-32
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-32
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-32
+3, ДВВС (лекц),// .. -, NULL, NULL, NULL, Четвер, ФеM-32
+4, ДВВС (лекц),// .. -, NULL, NULL, NULL, Четвер, ФеM-32
+5, Автоматиз.експер. (лекц),ас. Кушлик М.О.,122, NULL, NULL, NULL, Четвер, ФеM-32
+6, Фотонiка (лекц),доц. Шпотюк Я.О.,413, NULL, NULL, NULL, Четвер, ФеM-32
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-32
+2, Фотонiка (лаб),доц. Шпотюк Я.О.,423,Автоматиз.експер. (лаб),ас. Кушлик М.О.,412,Пятниця, ФеM-32
+3, Фотонiка (лаб),доц. Слободзян Д.П.,423, NULL, NULL, NULL, Пятниця, ФеM-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-31
+2, Ймовiрнiснi процеси (лекц),проф. Болеста I.М.,129, NULL, NULL, NULL, Понедiлок, ФеI-31
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-31
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-31
+5, Управл.IТ проектами (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-31
+6, Проект.iнформ.систем (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-31
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-31
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-31
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-31
+6, Проект.iнформ.систем (лаб),доц. Ненчук Т.М.,11,Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,2,Вiвторок, ФеI-31
+7, Iнтел.аналiз даних (лаб),доц. Любунь З.М.,6,Телек.мiкропр.сист. (лаб),доц. Благiтко Б.Я.,1,Вiвторок, ФеI-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-31
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-31
+3, Ймовiрнiснi процеси (лаб),проф. Болеста I.М.,12, NULL, NULL, NULL, Середа, ФеI-31
+4, Пар.та розп.обчисл. (лаб),ст. вик. Ковтко Р.Т.,11, NULL, NULL, NULL, Середа, ФеI-31
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-31
+6, Проект.iнформ.систем (лаб),доц. Ненчук Т.М.,11, NULL, NULL, NULL, Середа, ФеI-31
+7, Iнтел.аналiз даних (лаб),доц. Любунь З.М.,6, NULL, NULL, NULL, Середа, ФеI-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-31
+2, Телек.мiкропр.сист. (лекц),доц. Благiтко Б.Я.,128, NULL, NULL, NULL, Четвер, ФеI-31
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-31
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-31
+5, Пар.та розп.обчисл. (лекц),доц. Шувар Р.Я.,1, NULL, NULL, NULL, Четвер, ФеI-31
+6, Iнтел.аналiз даних (лекц),доц. Любунь З.М.,129, NULL, NULL, NULL, Четвер, ФеI-31
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-31
+2, Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,8,Ймовiрнiснi процеси (лаб),проф. Болеста I.М.,4,Пятниця, ФеI-31
+3, Телек.мiкропр.сист. (лаб),доц. Благiтко Б.Я.,1,Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,8,Пятниця, ФеI-31
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-32
+2, Ймовiрнiснi процеси (лекц),проф. Болеста I.М.,129, NULL, NULL, NULL, Понедiлок, ФеI-32
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-32
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-32
+5, Управл.IТ проектами (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-32
+6, Проект.iнформ.систем (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-32
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-32
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-32
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-32
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-32
+6, Телек.мiкропр.сист. (лаб),доц. Благiтко Б.Я.,1,Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,5,Вiвторок, ФеI-32
+7, Нейром.та неч.нейром (лаб),проф. Свелеба С.А.,7,Ймовiрнiснi процеси (лаб),проф. Болеста I.М.,4,Вiвторок, ФеI-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-32
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-32
+3, Проект.iнформ.систем (лаб),доц. Ненчук Т.М.,10, NULL, NULL, NULL, Середа, ФеI-32
+4, Ймовiрнiснi процеси (лаб),проф. Болеста I.М.,12,Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,3,Середа, ФеI-32
+5, Проект.iнформ.систем (лаб),доц. Ненчук Т.М.,11, NULL, NULL, NULL, Середа, ФеI-32
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-32
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-32
+2, Телек.мiкропр.сист. (лекц),доц. Благiтко Б.Я.,128, NULL, NULL, NULL, Четвер, ФеI-32
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-32
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-32
+5, Пар.та розп.обчисл. (лекц),доц. Шувар Р.Я.,1, NULL, NULL, NULL, Четвер, ФеI-32
+6, Нейром.та неч.нейром (лекц),проф. Свелеба С.А.,128, NULL, NULL, NULL, Четвер, ФеI-32
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-32
+1, Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,8, NULL, NULL, NULL, Пятниця, ФеI-32
+2, Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,5,Телек.мiкропр.сист. (лаб),доц. Благiтко Б.Я.,1,Пятниця, ФеI-32
+3, Нейром.та неч.нейром (лаб),проф. Свелеба С.А.,7, NULL, NULL, NULL, Пятниця, ФеI-32
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-33
+2, Ймовiрнiснi процеси (лекц),проф. Болеста I.М.,129, NULL, NULL, NULL, Понедiлок, ФеI-33
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-33
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-33
+5, Управл.IТ проектами (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-33
+6, Проект.iнформ.систем (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-33
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-33
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-33
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-33
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-33
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-33
+6, Ймовiрнiснi процеси (лаб),ас. Шмигельський Я.А.,3,Телек.мiкропр.сист. (лаб),ас. Дзiковський В.Є.,7,Вiвторок, ФеI-33
+7, Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,5,Проект.iнформ.систем (лаб),доц. Ненчук Т.М.,11,Вiвторок, ФеI-33
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-33
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-33
+3, Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,2, NULL, NULL, NULL, Середа, ФеI-33
+4, Нейром.та неч.нейром (лаб),проф. Свелеба С.А.,7,Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,5,Середа, ФеI-33
+5, Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,2, NULL, NULL, NULL, Середа, ФеI-33
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-33
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-33
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-33
+2, Телек.мiкропр.сист. (лекц),доц. Благiтко Б.Я.,128, NULL, NULL, NULL, Четвер, ФеI-33
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-33
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-33
+5, Пар.та розп.обчисл. (лекц),доц. Шувар Р.Я.,1, NULL, NULL, NULL, Четвер, ФеI-33
+6, Нейром.та неч.нейром (лекц),проф. Свелеба. С.А.,128, NULL, NULL, NULL, Четвер, ФеI-33
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-33
+1, Телек.мiкропр.сист. (лаб),доц. Благiтко Б.Я.,1, NULL, NULL, NULL, Пятниця, ФеI-33
+2, Проект.iнформ.систем (лаб),доц. Ненчук Т.М.,11,Ймовiрнiснi процеси (лаб),ас. Шмигельський Я.А.,3,Пятниця, ФеI-33
+3, Нейром.та неч.нейром (лаб),доц. Куньо I.М.,4, NULL, NULL, NULL, Пятниця, ФеI-33
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-34
+2, Ймовiрнiснi процеси (лекц),проф. Болеста I.М.,129, NULL, NULL, NULL, Понедiлок, ФеI-34
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-34
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Понедiлок, ФеI-34
+5, Управл.IТ проектами (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-34
+6, Проект.iнформ.систем (лекц),доц. Ненчук Т.М.,1, NULL, NULL, NULL, Понедiлок, ФеI-34
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-34
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-34
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-34
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-34
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-34
+6, Iнтел.аналiз даних (лаб),доц. Любунь З.М.,6,Проект.iнформ.систем (лаб),проф. Юзевич В.М.,9,Вiвторок, ФеI-34
+7, Проект.iнформ.систем (лаб),проф. Юзевич В.М.,9,Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,2,Вiвторок, ФеI-34
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-34
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-34
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-34
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-34
+5, Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,5, NULL, NULL, NULL, Середа, ФеI-34
+6, Ймовiрнiснi процеси (лаб),ас. Шмигельський Я.А.,4,Управл.IТ проектами (лаб),доц. Стахiра Р.Й.,5,Середа, ФеI-34
+7, Ймовiрнiснi процеси (лаб),ас. Шмигельський Я.А.,4, NULL, NULL, NULL, Середа, ФеI-34
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-34
+2, Телек.мiкропр.сист. (лекц),доц. Благiтко Б.Я.,128, NULL, NULL, NULL, Четвер, ФеI-34
+3, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-34
+4, ДВВС (лекц),// . -, NULL, NULL, NULL, Четвер, ФеI-34
+5, Пар.та розп.обчисл. (лекц),доц. Шувар Р.Я.,1, NULL, NULL, NULL, Четвер, ФеI-34
+6, Iнтел.аналiз даних (лекц),доц. Любунь З.М.,129, NULL, NULL, NULL, Четвер, ФеI-34
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-34
+1, Пар.та розп.обчисл. (лаб),ас. Кулик П.Р.,5, NULL, NULL, NULL, Пятниця, ФеI-34
+2, Телек.мiкропр.сист. (лаб),ас. Дзiковський В.Є.,2,Iнтел.аналiз даних (лаб),доц. Любунь З.М.,6,Пятниця, ФеI-34
+3, Телек.мiкропр.сист. (лаб),ас. Дзiковський В.Є.,2, NULL, NULL, NULL, Пятниця, ФеI-34
+1, Конст.та над.Iнт.-р. (лаб),ас. Гура В.Т.,10,Арх.програмн.забезп. (лаб),доц. Оленич I.Б.,6,Понедiлок, ФеC-41
+2, Контр.якостi пр.заб. (лаб),доц. Флюнт О.Є.,10,Основи робототехн. (лаб),доц. Кушнiр. О.О.,313,Понедiлок, ФеC-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-41
+1, Робототехнiка (лаб),доц. Кушнiр. О.О.,313,Контр.якостi пр.заб. (лаб),доц. Флюнт О.Є.,10,Вiвторок, ФеC-41
+2, Право в IТ (пр),ас. Суханов М.О.,407,Право в IТ (пр),ас. Гринчак I.В.,123,Вiвторок, ФеC-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-41
+1, Конст.та над.Iнт.-р. (пр),ас. Гура В.Т.,4, NULL, NULL, NULL, Середа, ФеC-41
+2, Робототехнiка (пр),доц. Кушнiр. О.О.,312,Арх.програмн.забезп. (пр),доц. Оленич I.Б.,129,Середа, ФеC-41
+3, Основи робототехн. (пр),доц. Кушнiр. О.О.,312, NULL, NULL, NULL, Середа, ФеC-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-41
+4, Право в IТ (лекц),ас. Суханов М.О.,129, NULL, NULL, NULL, Четвер, ФеC-41
+5, Контр.якостi пр.заб. (лекц),доц. Флюнт О.Є.,3, NULL, NULL, NULL, Четвер, ФеC-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-42
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеC-42
+5, Бiзн.ан.зас.шт.iнт. (лаб),проф. Огiрко I.В.,11,Сист.пiдтрим.пр.рiш. (лаб),ас. Дуфанець М.В.,2,Понедiлок, ФеC-42
+6, Сист.пiдтрим.пр.рiш. (лаб),ас. Дуфанець М.В.,7,Оп.зв.iнф.зас.шт.iн. (лаб),проф. Крупич О.М.,12,Понедiлок, ФеC-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-42
+3, Веб-аналiтика (лаб),ас. Мисюк Р.В.,5, NULL, NULL, NULL, Вiвторок, ФеC-42
+4, Розпiзнаван.образiв (лаб),доц. Куньо I.М.,7,Бiзн.ан.зас.шт.iнт. (лаб),ас. Мисюк Р.В.,5,Вiвторок, ФеC-42
+5, Розпiзнаван.образiв (лаб),доц. Куньо I.М.,6, NULL, NULL, NULL, Вiвторок, ФеC-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-42
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеC-42
+1, Веб-аналiтика (пр),проф. Огiрко I.В.,3,Оп.зв.iнф.зас.шт.iн. (пр),проф. Крупич О.М.,213,Середа, ФеC-42
+2, Сист.пiдтрим.пр.рiш. (лекц),ас.Дуфанець М.В./проф.Свелеба С.А. .,213, NULL, NULL, NULL, Середа, ФеC-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-42
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-42
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-42
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеC-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-42
+4, Бiзн.ан.зас.шт.iнт. (лекц),проф. Огiрко I.В.,2, NULL, NULL, NULL, Четвер, ФеC-42
+5, Розпiзнаван.образiв (лекц),проф. Половинко I.I.,129, NULL, NULL, NULL, Четвер, ФеC-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-42
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеC-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеC-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-41
+3, Квантова електрон. (лаб),доц. Костик Л.В.,424,Фiз.ос.тех. мiкроел. (лаб),доц. Пенюх Б.Р.,403,Понедiлок, ФеM-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-41
+2, Фiз.ос.тех. мiкроел. (лаб),доц. Пенюх Б.Р.,403,Квантова електрон. (лаб),доц. Костик Л.В.,423,Вiвторок, ФеM-41
+3, Фiзика живого (лаб),доц. Кухарський I.Й.,117,Фiз.ос.мет.мед.дiаг. (лаб),ас. Медвiдь I.I.,408,Вiвторок, ФеM-41
+4, Фiз.ос.мет.мед.дiаг. (лаб),ас. Медвiдь I.I.,408,Фiз.основи сенсорики (лаб),доц. Слободзян Д.П.,423,Вiвторок, ФеM-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-41
+2, Квантова електрон. (лекц),доц. Костик Л.В.,130, NULL, NULL, NULL, Середа, ФеM-41
+3, Фiз.основи сенсорики (лекц),проф. Павлик Б.В.,130, NULL, NULL, NULL, Середа, ФеM-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-41
+5, Фiз.ос.мет.мед.дiаг. (лекц),проф. Бордун О.М.,2, NULL, NULL, NULL, Середа, ФеM-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-41
+4, Фiзика живого (пр),доц. Кухарський I.Й.,3,Радiац.сенсорика (пр),доц. Лучечко А.П.,130,Четвер, ФеM-41
+5, Фiз.ос.тех. мiкроел. (лекц),доц. Пенюх Б.Р.,5, NULL, NULL, NULL, Четвер, ФеM-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-41
+5, Сист.штучн.iнтелекту (лаб),доц. Грабовський В.А.,1,Спецiал.комп.системи (лаб),доц. Флюнт О.Є.,10,Понедiлок, ФеI-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-41
+2, Ел.навч.та докумет. (лаб),ас. Футей О.В.,8,Сист.штучн.iнтелекту (лаб),доц. Грабовський В.А.,6,Вiвторок, ФеI-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-41
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-41
+3, Спецiал.комп.системи (лекц),доц. Флюнт О.Є.,129, NULL, NULL, NULL, Середа, ФеI-41
+4, Сист.штучн.iнтелекту (лекц),доц. Грабовський В.А.,129, NULL, NULL, NULL, Середа, ФеI-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-41
+4, Ел.навч.та докумет. (лекц),ас. Футей. О.В.,128, NULL, NULL, NULL, Четвер, ФеI-41
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-41
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-41
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-41
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-41
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-41
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-41
+1, Сист.штучн.iнтелекту (лаб),доц. Грабовський В.А.,1, NULL, NULL, NULL, Понедiлок, ФеI-42
+2, Осн.комп.лiнгвiстики (лаб),проф. Кушнiр О.С.,7, NULL, NULL, NULL, Понедiлок, ФеI-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-42
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-42
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-42
+2, Осн. iнженерiї знань (лаб),ас. Панасюк Ю.В.,2, NULL, NULL, NULL, Вiвторок, ФеI-42
+3, Веб-аналiтика (лаб),ас. Кушнiр В.В.,9, NULL, NULL, NULL, Вiвторок, ФеI-42
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-42
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-42
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-42
+3, Осн. iнженерiї знань (лекц),ас.Панасюк Ю.В./доц.Паночко Г.I. .,128, NULL, NULL, NULL, Середа, ФеI-42
+4, Сист.штучн.iнтелекту (лекц),доц. Грабовський В.А.,129, NULL, NULL, NULL, Середа, ФеI-42
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-42
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-42
+4, Осн.комп.лiнгвiстики (лекц),проф. Кушнiр О.С.,129, NULL, NULL, NULL, Четвер, ФеI-42
+5, Веб-аналiтика (лекц),проф. Огiрко I.В.,2, NULL, NULL, NULL, Четвер, ФеI-42
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-42
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-42
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-42
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-42
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-43
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-43
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-43
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-43
+5, Веб-аналiтика (лаб),ас. Кушнiр В.В.,9,Осн. iнженерiї знань (лаб),ас. Панасюк Ю.В.,4,Понедiлок, ФеI-43
+6, Осн. iнженерiї знань (лаб),ас. Панасюк Ю.В.,4,Сист.штучн.iнтелекту (лаб),доц. Катеринчук I.М.,3,Понедiлок, ФеI-43
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-43
+2, Сист.штучн.iнтелекту (лаб),доц. Куньо I.М.,7,Веб-аналiтика (лаб),ас. Мисюк Р.В.,9,Вiвторок, ФеI-43
+3, Осн.комп.лiнгвiстики (лаб),ас. Мостова М.Р.,2,Осн.комп.лiнгвiстики (лаб),ас. Дуфанець М.В.,7,Вiвторок, ФеI-43
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-43
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-43
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-43
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-43
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-43
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-43
+3, Осн. iнженерiї знань (лекц),ас.Панасюк Ю.В./доц.Паночко Г.I.,128, NULL, NULL, NULL, Середа, ФеI-43
+4, Сист.штучн.iнтелекту (лекц),доц. Грабовський В.А.,129, NULL, NULL, NULL, Середа, ФеI-43
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-43
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-43
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-43
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-43
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-43
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-43
+4, Осн.комп.лiнгвiстики (лекц),проф. Кушнiр О.С.,129., NULL, NULL, NULL, Четвер, ФеI-43
+5, Веб-аналiтика (лекц),проф. Огiрко I.В.,2., NULL, NULL, NULL, Четвер, ФеI-43
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-43
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-43
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-43
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-43
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-43
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-44
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-44
+3, Ел.навч.та докумет. (лаб),ас. Футей О.В.,10, NULL, NULL, NULL, Понедiлок, ФеI-44
+4, Сист.штучн.iнтелекту (лаб),доц. Грабовський В.А.,1, NULL, NULL, NULL, Понедiлок, ФеI-44
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-44
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-44
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-44
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-44
+3, Спецiал.комп.системи (лаб),доц. Флюнт О.Є.,3, NULL, NULL, NULL, Вiвторок, ФеI-44
+4, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-44
+5, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-44
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-44
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-44
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-44
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-44
+3, Спецiал.комп.системи (лекц),доц. Флюнт. О.Є.,129., NULL, NULL, NULL, Середа, ФеI-44
+4, Сист.штучн.iнтелекту (лекц),доц. Грабовський В.А.,129, NULL, NULL, NULL, Середа, ФеI-44
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-44
+6, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-44
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-44
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-44
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-44
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-44
+4, Ел.навч.та докумет. (лекц),ас. Футей О.В.,128, NULL, NULL, NULL, Четвер, ФеI-44
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-44
+6, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-44
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-44
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-44
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-44
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-44
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-51
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-51
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-51
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-51
+3, Акт.пит.сенс.електр. (лекц),проф. Павлик Б.В.,413, NULL, NULL, NULL, Вiвторок, ФеM-51
+4, Суч.методи мед.дiаг. (лекц),доц. Кухарський I.Й.,3, NULL, NULL, NULL, Вiвторок, ФеM-51
+5, Ел.яв.в нанор.сист. (лекц),доц. Бiгун Р.I.,5, NULL, NULL, NULL, Вiвторок, ФеM-51
+6, Осн.електр.мiкроск. (лекц),доц. Пенюх Б.Р.,5, NULL, NULL, NULL, Вiвторок, ФеM-51
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-51
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-51
+5, Суч.методи мед.дiаг. (лаб),Вороняк М.I., Iн-т гем.,Осн.електр.мiкроск. (лаб),доц. Пенюх Б.Р.,403,Середа, ФеM-51
+6, Акт.пит.сенс.електр. (лаб),проф. Павлик Б.В.,416,Суч.методи мед.дiаг. (лаб),Вороняк М.I. Iн-т гем., Середа, ФеM-51
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-51
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-51
+5, Ел.яв.в нанор.сист. (лаб),ас. Бучковська М.Д.,406,Акт.пит.сенс.електр. (лаб),проф. Павлик Б.В.,416, Четвер, ФеM-51
+6, Осн.електр.мiкроск. (лаб),доц. Пенюх Б.Р.,403,Ел.яв.в нанор.сист. (лаб),ас. Бучковська М.Д.,406,Четвер, ФеM-51
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-52
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-52
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-52
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеM-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-52
+2, Бiомедичнi сенсори (лекц),доц. Лучечко А.П.,413, NULL, NULL, NULL, Вiвторок, ФеM-52
+3, Акт.пит.сенс.електр. (лекц),проф. Павлик Б.В.,413, NULL, NULL, NULL, Вiвторок, ФеM-52
+4, Суч.методи мед.дiаг. (лекц),доц. Кухарський I.Й.,3, NULL, NULL, NULL, Вiвторок, ФеM-52
+5, Ел.яв.в нанор.сист. (лекц),доц. Бiгун Р.I.,5, NULL, NULL, NULL, Вiвторок, ФеM-52
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-52
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеM-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-52
+2, Акт.пит.сенс.електр. (лаб),проф. Павлик Б.В.,416, NULL, NULL, NULL, Середа, ФеM-52
+3, Ел.яв.в нанор.сист. (лаб),ас. Бучковська М.Д.,406, NULL, NULL, NULL, Середа, ФеM-52
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-52
+5, Акт.пит.сенс.електр. (лаб),проф. Павлик Б.В.,416, NULL, NULL, NULL, Середа, ФеM-52
+6, Ел.яв.в нанор.сист. (лаб),ас. Бучковська М.Д.,406, NULL, NULL, NULL, Середа, ФеM-52
+7, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеM-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-52
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-52
+5, Суч.методи мед.дiаг. (лаб),доц. Кухарський I.Й. Iн-т гем.,Бiомедичнi сенсори (лаб),доц. Лучечко А.П.,424,Четвер, ФеM-52
+6, Бiомедичнi сенсори (лаб),доц. Лучечко А.П.,424,Суч.методи мед.дiаг. (лаб),Вороняк М.I. Iн-т гем., Четвер, ФеM-52
+7, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеM-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеM-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-51
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-51
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-51
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-51
+2, Стохаст.моделювання (лекц),доц. Соколовський Б.С.,1, NULL, NULL, NULL, Вiвторок, ФеI-51
+3, Методол.наук.досл. (лекц),проф. Болеста I.М.,130, NULL, NULL, NULL, Вiвторок, ФеI-51
+4, Ком.лiн.та обр.пр.м. (лекц),проф. Кушнiр О.С.,130, NULL, NULL, NULL, Вiвторок, ФеI-51
+5, Сист.компют.матем. (лекц),доц. Назаркевич М.А.,129, NULL, NULL, NULL, Вiвторок, ФеI-51
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-51
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-51
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-51
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-51
+6, Ком.лiн.та обр.пр.м. (лаб),проф. Кушнiр О.С.,7, NULL, NULL, NULL, Середа, ФеI-51
+7, Сист.компют.матем. (лаб),доц. Назаркевич М.А.,11, NULL, NULL, NULL, Середа, ФеI-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-51
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-51
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-51
+6, Стохаст.моделювання (лаб),доц. Соколовський Б.С.,9, NULL, NULL, NULL, Четвер, ФеI-51
+7, Методол.наук.досл. (лаб),проф. Болеста I.М.,1, NULL, NULL, NULL, Четвер, ФеI-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-51
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-51
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-51
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-52
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-52
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-52
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-52
+2, Стохаст.моделювання (лекц),доц. Соколовський Б.С.,1, NULL, NULL, NULL, Вiвторок, ФеI-52
+3, Методол.наук.досл. (лекц),проф. Болеста I.М.,130, NULL, NULL, NULL, Вiвторок, ФеI-52
+4, Ком.лiн.та обр.пр.м. (лекц),проф. Кушнiр О.С.,130, NULL, NULL, NULL, Вiвторок, ФеI-52
+5, Проект.кiберф.сист. (лекц),проф. Юзевич В.М.,3, NULL, NULL, NULL, Вiвторок, ФеI-52
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-52
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-52
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-52
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-52
+6, Стохаст.моделювання (лаб),доц. Соколовський Б.С.,9, NULL, NULL, NULL, Середа, ФеI-52
+7, Ком.лiн.та обр.пр.м. (лаб),проф. Кушнiр О.С.,7, NULL, NULL, NULL, Середа, ФеI-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-52
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-52
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-52
+6, Методол.наук.досл. (лаб),проф. Болеста I.М.,1, NULL, NULL, NULL, Четвер, ФеI-52
+7, Проект.кiберф.сист. (лаб),проф. Юзевич В.М.,11, NULL, NULL, NULL, Четвер, ФеI-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-52
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-52
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-52
+1, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-53
+2, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-53
+3, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-53
+4, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-53
+5, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-53
+6, NULL, NULL, NULL, NULL, NULL, NULL, Понедiлок, ФеI-53
+1, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-53
+2, Стохаст.моделювання (лекц),доц. Соколовський Б.С.,1, NULL, NULL, NULL, Вiвторок, ФеI-53
+3, Методол.наук.досл. (лекц),проф. Болеста I.М.,130, NULL, NULL, NULL, Вiвторок, ФеI-53
+4, Ком.лiн.та обр.пр.м. (лекц),проф. Кушнiр О.С.,130, NULL, NULL, NULL, Вiвторок, ФеI-53
+5, Розпiзнаван.образiв (лекц),доц. Фургала Ю.М.,2, NULL, NULL, NULL, Вiвторок, ФеI-53
+6, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-53
+7, NULL, NULL, NULL, NULL, NULL, NULL, Вiвторок, ФеI-53
+1, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-53
+2, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-53
+3, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-53
+4, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-53
+5, NULL, NULL, NULL, NULL, NULL, NULL, Середа, ФеI-53
+6, Методол.наук.досл. (лаб),проф. Болеста I.М.,12, NULL, NULL, NULL, Середа, ФеI-53
+7, Ком.лiн.та обр.пр.м. (лаб),ас. Горон Б.I.,3, NULL, NULL, NULL, Середа, ФеI-53
+1, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-53
+2, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-53
+3, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-53
+4, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-53
+5, NULL, NULL, NULL, NULL, NULL, NULL, Четвер, ФеI-53
+6, Розпiзнаван.образiв (лаб),доц. Фургала Ю.М.,11, NULL, NULL, NULL, Четвер, ФеI-53
+7, Стохаст.моделювання (лаб),доц. Соколовський Б.С.,9, NULL, NULL, NULL, Четвер, ФеI-53
+1, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-53
+2, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-53
+3, NULL, NULL, NULL, NULL, NULL, NULL, Пятниця, ФеI-53
