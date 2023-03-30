@@ -26,7 +26,10 @@ import ua.com.epam.entity.dto.subject.SubjectDto;
 import ua.com.epam.service.LessonService;
 
 import javax.validation.Valid;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @CrossOrigin(origins = "*")
 @RestController

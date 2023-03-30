@@ -55,4 +55,9 @@ public class DetailedLessonDto {
   @NotBlank(message = "Value 'subjectName' is required!")
   private String subjectName;
 
+  @ApiModelProperty(required = true, position = 2)
+  @JsonDeserialize(using = CustomStringDeserializer.class)
+  @NotBlank(message = "Value 'groupName' is required!")
+  private String groupName;
+
 }

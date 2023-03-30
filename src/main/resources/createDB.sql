@@ -41,3 +41,10 @@ create table lesson (
         foreign key(subject_id) references subject(subject_id) on delete cascade,
         foreign key(room_id) references room(room_id) on delete cascade
 );
+
+create table groups (
+	id bigint not null auto_increment,
+	groups_id bigint unique not null,
+    groups_id_name varchar(50) not null,
+    groups_id_descr varchar(1000)
+);

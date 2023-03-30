@@ -46,5 +46,8 @@ public class DetailedLesson implements Serializable {
     @Column(name = "teacher_name")
     private String teacherName;
 
+    @Column(name = "groups_id_name")
+    private String groupsIdName;
+
 
 }

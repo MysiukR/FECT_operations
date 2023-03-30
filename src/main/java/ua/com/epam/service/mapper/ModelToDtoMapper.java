@@ -19,6 +19,8 @@ import ua.com.epam.service.mapper.converter.room.RoomToRoomDto;
 import ua.com.epam.service.mapper.converter.subject.SubjectToSubjectDto;
 import ua.com.epam.service.mapper.converter.teacher.TeacherToTeacherDto;
 
+import java.util.Collections;
+
 
 @Service
 public class ModelToDtoMapper {
@@ -57,6 +59,7 @@ public class ModelToDtoMapper {
         detailedLessonDto.setRoomName(item.getRoomName());
         detailedLessonDto.setTeacher(item.getTeacherName());
         detailedLessonDto.setSubjectName(item.getSubjectName());
+        detailedLessonDto.setGroupName(item.getGroupsIdName());
         return detailedLessonDto;
     }
 
