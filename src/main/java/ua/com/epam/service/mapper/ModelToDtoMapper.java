@@ -10,6 +10,7 @@ import ua.com.epam.entity.Skills;
 import ua.com.epam.entity.Subject;
 import ua.com.epam.entity.Teacher;
 import ua.com.epam.entity.dto.item.DetailedLessonDto;
+import ua.com.epam.entity.dto.item.PerDayDto;
 import ua.com.epam.entity.dto.lesson.LessonDto;
 import ua.com.epam.entity.dto.room.RoomDto;
 import ua.com.epam.entity.dto.skills.SkillsDto;
@@ -19,7 +20,10 @@ import ua.com.epam.service.mapper.converter.room.RoomToRoomDto;
 import ua.com.epam.service.mapper.converter.subject.SubjectToSubjectDto;
 import ua.com.epam.service.mapper.converter.teacher.TeacherToTeacherDto;
 
+import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
+import java.util.Map;
 
 
 @Service
@@ -51,15 +55,21 @@ public class ModelToDtoMapper {
         return modelMapper.map(skills, SkillsDto.class);
     }
 
-    public DetailedLessonDto mapItemToItemDto(DetailedLesson item) {
+    public DetailedLessonDto mapItemToItemDto(Map.Entry <Object, List<DetailedLesson>> item) {
         DetailedLessonDto detailedLessonDto = new DetailedLessonDto();
-        detailedLessonDto.setLessonId(item.getId());
-        detailedLessonDto.setLessonNumber(item.getLessonNumber());
-        detailedLessonDto.setDayOfWeek(DAY_OF_WEEK.getWeekdayByNumber(item.getDayOfWeek()).get().getWeekday());
-        detailedLessonDto.setRoomName(item.getRoomName());
-        detailedLessonDto.setTeacher(item.getTeacherName());
-        detailedLessonDto.setSubjectName(item.getSubjectName());
-        detailedLessonDto.setGroupName(item.getGroupsIdName());
+        detailedLessonDto.setGroupName(String.valueOf(item.getKey()));
+        List<PerDayDto> list = new ArrayList<>();
+        for(DetailedLesson detailedLesson : item.getValue()) {
+            PerDayDto perDayDto = new PerDayDto();
+            perDayDto.setLessonId(detailedLesson.getId());
+            perDayDto.setLessonNumber(detailedLesson.getLessonNumber());
+            perDayDto.setDayOfWeek(DAY_OF_WEEK.getWeekdayByNumber(detailedLesson.getDayOfWeek()).get().getWeekday());
+            perDayDto.setRoomName(detailedLesson.getRoomName());
+            perDayDto.setTeacher(detailedLesson.getTeacherName());
+            perDayDto.setSubjectName(detailedLesson.getSubjectName());
+            list.add(perDayDto);
+        }
+        detailedLessonDto.setPerDayDto(list);
         return detailedLessonDto;
     }
 

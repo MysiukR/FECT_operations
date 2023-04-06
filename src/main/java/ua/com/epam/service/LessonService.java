@@ -14,7 +14,10 @@ import ua.com.epam.repository.JsonKeysConformity;
 import ua.com.epam.repository.LessonRepository;
 import ua.com.epam.service.mapper.ModelToDtoMapper;
 
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 @Service
@@ -50,7 +53,10 @@ public class LessonService {
   public List<DetailedLessonDto> findAllDetailedLesson() {
     List<DetailedLesson> detailedLesson;
     detailedLesson = itemRepository.getAllDetailedLessons();
-    return mapItemToDto(detailedLesson);
+    Map<Object, List<DetailedLesson>> postsPerType = detailedLesson.stream()
+            .collect(Collectors.groupingBy(s->s.getGroupsIdName(),
+                    LinkedHashMap::new, Collectors.toList()));
+    return mapItemToDto(postsPerType);
   }
 
   public SubjectDto addNewSubject(long teacherId, long roomId, SubjectDto newSubject) {
@@ -82,10 +88,13 @@ public class LessonService {
             .collect(Collectors.toList());
   }
 
-  private List<DetailedLessonDto> mapItemToDto(List<DetailedLesson> teachers) {
-    return teachers.stream()
-            .map(toDtoMapper::mapItemToItemDto)
-            .collect(Collectors.toList());
+  private List<DetailedLessonDto> mapItemToDto(Map<Object, List<DetailedLesson>> detailedLessonsPerGroup) {
+    List<DetailedLessonDto> detailedLessonDtos = new ArrayList<>();
+    for(Map.Entry <Object, List<DetailedLesson>> detailedLesson : detailedLessonsPerGroup.entrySet())
+    {
+      detailedLessonDtos.add(toDtoMapper.mapItemToItemDto(detailedLesson));
+    }
+    return detailedLessonDtos;
   }
 
 }

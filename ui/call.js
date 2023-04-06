@@ -1,4 +1,5 @@
 var count = 0;
+var currentGroup = "Понеділок";
 $(document).ready(function() {
 var settings = {
           "url": "http://localhost:8080/api/schedule/items",
@@ -16,11 +17,39 @@ var settings = {
 	const obj = JSON.parse(JSON.stringify((data)));
     console.log(obj.length);
 	count = obj.length;
-	$(".table").append("<thead> <tr> <th>"+obj[0].groupName+" </th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+"</th> <th class='last'>"+obj[0].dayOfWeek+"</th> </tr> </thead>");
-	$(".table").append("<tbody>");
+	//$(".table").append("<thead> <tr> <th>"+obj[0].groupName+" </th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+
+	//"</th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+"</th> <th class='last'>"+obj[0].dayOfWeek+"</th> </tr> </thead>");
+	$(".table").append("<thead> <tr class='scheduleHead'><th></th>");
+	 for (var i=0; i<obj.length; i++) {
+	   $(".scheduleHead").append("<th>"+obj[i].groupName+"</th>");
+	 }
+	$(".table").append("</tr></thead>");
+	$(".table").append("<tbody class='scheduleBody'>");
+	var caf = 0;
 	for (var i=0; i<obj.length; i++) {
+    //console.log(obj[i].groupName);
+    if(obj[i].groupName != currentGroup) {
 
-	  $(".table").append("<tr><td class='day'>"+obj[i].dayOfWeek+"</td> <td class='active'> <h4>"+obj[i].subjectName+"</h4> <p>"+obj[i].teacher+" "+obj[i].roomName+ "</p> <div class='hover'> <h4>"+obj[i].subjectName+"</h4> <p>"+obj[i].lessonNumber+"</p> <span>"+obj[i].teacher+" "+obj[i].roomName+ "</span> </div> </td> <td></td></tr>");
+    }
+
+	 //if(i!=j) { //avoid duplicates in row
+	  for (var j=0; j<obj[i].perDayDto.length; j++) {
+	   $(".scheduleBody").append("<tr id='lessonDetails"+i+j+"'>");
+       caf = obj[i].perDayDto[j].dayOfWeek;
+       console.log(caf);
+	   $("#lessonDetails"+i+j).append("<td class='day'>"+caf+"</td>");
+	   $("#lessonDetails"+i+j).append("<td class='active'> <h4>"+obj[i].perDayDto[j].subjectName+"</h4> <p>"
+	   +obj[i].perDayDto[j].teacher+" "+obj[i].perDayDto[j].roomName+ "</p> <div class='hover'> <h4>"+
+	   obj[i].perDayDto[j].subjectName+"</h4> <p>"+obj[i].perDayDto[j].lessonNumber+
+	   "</p> <span>"+obj[i].perDayDto[j].teacher+" "+obj[i].perDayDto[j].roomName+"</span> </div> </td> ");
+
+
+	   $(".scheduleBody").append("</tr>");
+	   console.log(i + " j:" + j);
+	   }
+
+      currentGroup= obj[i].groupName;
+      //j++;
 	}
 	$(".table").append("</tbody>");
 });
