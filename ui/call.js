@@ -27,21 +27,22 @@ var settings = {
 	$(".table").append("<tbody class='scheduleBody'>");
 	var caf = 0;
 	for (var i=0; i<obj.length; i++) {
-    //console.log(obj[i].groupName);
-    if(obj[i].groupName != currentGroup) {
-
-    }
 
 	 //if(i!=j) { //avoid duplicates in row
-	  for (var j=0; j<obj[i].perDayDto.length; j++) {
+	  for (var j=0; j<obj[i].perDayDto.length; j++) { //
 	   $(".scheduleBody").append("<tr id='lessonDetails"+i+j+"'>");
-       caf = obj[i].perDayDto[j].dayOfWeek;
-       console.log(caf);
-	   $("#lessonDetails"+i+j).append("<td class='day'>"+caf+"</td>");
-	   $("#lessonDetails"+i+j).append("<td class='active'> <h4>"+obj[i].perDayDto[j].subjectName+"</h4> <p>"
+
+       console.log(j + " " + obj[i].perDayDto[j].lessonNumber);
+       //if (j == obj[i].perDayDto[j].lessonNumber) {
+	   $("#lessonDetails0"+j).append("<td class='day'>"+obj[i].perDayDto[j].dayOfWeek+"</td>");
+	   $("#lessonDetails0"+j).append("<td class='active'> <h4>"+obj[i].perDayDto[j].dayOfWeek+obj[i].perDayDto[j].lessonNumber+obj[i].perDayDto[j].subjectName+"</h4> <p>"
 	   +obj[i].perDayDto[j].teacher+" "+obj[i].perDayDto[j].roomName+ "</p> <div class='hover'> <h4>"+
 	   obj[i].perDayDto[j].subjectName+"</h4> <p>"+obj[i].perDayDto[j].lessonNumber+
 	   "</p> <span>"+obj[i].perDayDto[j].teacher+" "+obj[i].perDayDto[j].roomName+"</span> </div> </td> ");
+	   //} else {
+	   //$("#lessonDetails0"+j).append("<td class='day'></td>");
+	   // $("#lessonDetails0"+j).append("<td></td>");
+	   //}
 
 
 	   $(".scheduleBody").append("</tr>");
