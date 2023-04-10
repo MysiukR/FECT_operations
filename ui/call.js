@@ -19,38 +19,26 @@ var settings = {
 	count = obj.length;
 	//$(".table").append("<thead> <tr> <th>"+obj[0].groupName+" </th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+
 	//"</th> <th>"+obj[0].dayOfWeek+"</th> <th>"+obj[0].dayOfWeek+"</th> <th class='last'>"+obj[0].dayOfWeek+"</th> </tr> </thead>");
-	$(".table").append("<thead> <tr class='scheduleHead'><th></th>");
+	$(".table").append("<thead> <tr class='scheduleHead'>");
 	 for (var i=0; i<obj.length; i++) {
-	   $(".scheduleHead").append("<th>"+obj[i].groupName+"</th>");
+	   $(".scheduleHead").append("<th>День тижня</th><th>"+obj[i].groupName+"</th>");
 	 }
 	$(".table").append("</tr></thead>");
 	$(".table").append("<tbody class='scheduleBody'>");
 	var caf = 0;
 	for (var i=0; i<obj.length; i++) {
-
-	 //if(i!=j) { //avoid duplicates in row
 	  for (var j=0; j<obj[i].perDayDto.length; j++) { //
 	   $(".scheduleBody").append("<tr id='lessonDetails"+i+j+"'>");
-
-       console.log(j + " " + obj[i].perDayDto[j].lessonNumber);
-       //if (j == obj[i].perDayDto[j].lessonNumber) {
-	   $("#lessonDetails0"+j).append("<td class='day'>"+obj[i].perDayDto[j].dayOfWeek+"</td>");
-	   $("#lessonDetails0"+j).append("<td class='active'> <h4>"+obj[i].perDayDto[j].dayOfWeek+obj[i].perDayDto[j].lessonNumber+obj[i].perDayDto[j].subjectName+"</h4> <p>"
+       console.log("J:"+j+",Lesson:"+obj[i].perDayDto[j].lessonNumber);
+	   $("#lessonDetails0"+j).append("<td class='day'>"+obj[i].perDayDto[j].dayOfWeek+"<br>"+obj[i].perDayDto[j].lessonNumber+" пара </td>");
+	   $("#lessonDetails0"+j).append("<td class='active'> <h4>"+obj[i].perDayDto[j].subjectName+"</h4> <p>"
 	   +obj[i].perDayDto[j].teacher+" "+obj[i].perDayDto[j].roomName+ "</p> <div class='hover'> <h4>"+
 	   obj[i].perDayDto[j].subjectName+"</h4> <p>"+obj[i].perDayDto[j].lessonNumber+
 	   "</p> <span>"+obj[i].perDayDto[j].teacher+" "+obj[i].perDayDto[j].roomName+"</span> </div> </td> ");
-	   //} else {
-	   //$("#lessonDetails0"+j).append("<td class='day'></td>");
-	   // $("#lessonDetails0"+j).append("<td></td>");
-	   //}
-
-
 	   $(".scheduleBody").append("</tr>");
 	   console.log(i + " j:" + j);
 	   }
-
       currentGroup= obj[i].groupName;
-      //j++;
 	}
 	$(".table").append("</tbody>");
 });
